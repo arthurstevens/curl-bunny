@@ -8,6 +8,6 @@ Files for curl interactions with arthurstevens.dev
 curl arthurstevens.dev
 
 # animated (if you'll dare RCE)
-curl arthurstevens.dev/bash | bash
+curl arthurstevens.dev/bash -s | bash
 ```
 
